@@ -1,3 +1,6 @@
+<img src="images/1c5a5ff7-ee89-40d8-ba2e-f3caa28a1142.png" alt="Alternative text" width="400">
+
+
 # Hi 👋, I'm Suraj Patil
 
 <div align="center">
