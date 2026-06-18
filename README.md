@@ -1,7 +1,12 @@
-<img src="images/1c5a5ff7-ee89-40d8-ba2e-f3caa28a1142.png" alt="Alternative text" width="400">
+<div align="center">
+  <img src="images/1c5a5ff7-ee89-40d8-ba2e-f3caa28a1142.png" alt="Alternative text" width="80%">
+</div>
 
 
+
+<div align="center">
 # Hi 👋, I'm Suraj Patil
+</div>
 
 <div align="center">
 
@@ -82,7 +87,7 @@
 
 <div align="center">
 
-### ⭐ Code • Learn • Build • Repeat ⭐
+### ⭐ Code • Learn • Build • Sleep • Repeat ⭐
 
 <!-- ![](https://komarev.com/ghpvc/?username=surajpatil-20&label=Profile+Views&color=0e75b6&style=flat) -->
 
